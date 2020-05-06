@@ -1,6 +1,8 @@
 # save_yourself
-How to save yourself as you major in CS in China: 中国一般通过计科本科生自救指南<br/>
+How to save yourself as you major in CS in China: 中国一般通过计科本科生自救指南
+<br/>
 **一个在建的学习笔记/复习资料库，计划会包括中国普通大学计算机科学的所有科目**
+<br/>
 **A database of study or review notes under construction**
 ## 非常欢迎issue包括且不限于建议、勘误、心得
 #### todolist
